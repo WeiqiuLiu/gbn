@@ -2,4 +2,4 @@
 
 Go-Back-N protocol implemented by using UDP
 
-Ubuntu 16.04 & MAC OS 10
+Ubuntu 16.04 & Mac OS 10
